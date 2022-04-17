@@ -1,6 +1,6 @@
 # FreeCAD-Cycloid-Macro
  Small python macro for FreeCAD which generates a sketch for a disk of a cycloidal drive. The parametrization of the curve is taken from https://blogs.solidworks.com/teacher/wp-content/uploads/sites/3/Building-a-Cycloidal-Drive-with-SOLIDWORKS.pdf .
-![alt text](https://raw.githubusercontent.com/Widdi97/FreeCAD-Cycloid-Macro/main/cycloid_sketch.png?raw=true)
+![alt text](https://raw.githubusercontent.com/Widdi97/FreeCAD-Cycloid-Macro/main/cycloid_sketch.png)
 
 ## Parameters
  Five parameters can be set by the user inside of the python macro:
