@@ -11,7 +11,8 @@
  - Excentricity / offset from the input shaft to the center of the rotor *E*
  - Steps of the parametrization *steps*
 
-When setting the debug flag to *True*, the cycloid is also plotted in matplotlib.
+When setting the debug flag to *True*, the cycloid is also plotted in matplotlib:
+![alt text](https://raw.githubusercontent.com/Widdi97/FreeCAD-Cycloid-Macro/main/cycloid_plot.png)
 
 ## Usage
  Just copy *cycloid.py* to your FreeCAD macro directory. 
